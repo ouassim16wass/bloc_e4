@@ -54,7 +54,7 @@ bloc_e4/
 | 10 | Analyse feedbacks + axes d'amélioration | C23 | ✅ Fait |
 | 11 | Plan d'accompagnement utilisateurs | C24 | ✅ Fait |
 | 12 | Slides reporting direction (8 slides, 10 min) | C22 | ✅ Fait (PDF + PPTX générés) |
-| 13 | Fiche de contribution individuelle (1 seule — travail individuel) | Qualité | 🔲 À faire |
+| 13 | Fiche de contribution individuelle (1 seule — travail individuel) | Qualité | ✅ Fait (nom/prénom à remplir) |
 | 14 | Export PDF + archive `E4_MobilityPulse_NomEquipe.zip` | Qualité | 🔲 À faire |
 
 ## 🎤 Générer les slides à partir du .md
