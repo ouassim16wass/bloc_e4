@@ -1,7 +1,10 @@
 # Fiche de contribution individuelle — E4 MobilityPulse_V1
 
-> **Livrable 4** — 1 page par membre de l'équipe. Dupliquer ce fichier par membre :
-> `04_fiche_contribution_individuelle_NOM.md` → export PDF `fiche_contribution_individuelle_NOM.pdf`.
+> **Livrable 4** — travail passé en INDIVIDUEL : une seule fiche (export PDF
+> `fiche_contribution_individuelle_NOM.pdf`). Le candidat étant seul, la fiche explique comment
+> il a couvert l'ensemble des dimensions du pilotage (C19 à C24) et arbitré entre les
+> perspectives des différents rôles du projet fictif (PO, Lead Data, MLOps, métier, support,
+> accessibilité). Le « rôle tenu » = chef de projet / directeur de programme portant tous les rôles.
 
 ---
 

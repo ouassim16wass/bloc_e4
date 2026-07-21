@@ -8,6 +8,12 @@ Dépôt de travail pour l'examen **E4 — Bloc 4 : « Piloter un projet d'archit
 
 Piloter le déploiement organisationnel de **MobilityPulse** (solution d'analyse de mobilité urbaine de la métropole fictive NovaVille) sur **12 semaines** : organisation, gouvernance agile, reporting, KPI et accompagnement des utilisateurs. **Aucun code — c'est un examen de pilotage de projet.**
 
+> ⚠️ **Travail passé en INDIVIDUEL** : le sujet est conçu pour un groupe, mais le candidat est seul.
+> Conséquences : une seule fiche de contribution individuelle, et à l'oral le candidat doit savoir
+> parler de **tous les rôles** de l'équipe projet fictive (PO, Lead Data, Data Engineer, MLOps,
+> Référent métier, Support, Référent accessibilité). La RACI reste inchangée : ces 7 rôles sont
+> ceux du scénario fictif imposé par le brief, pas ceux des candidats.
+
 ## 📁 Structure du dépôt
 
 ```
@@ -17,7 +23,7 @@ bloc_e4/
 ├── livrables/
 │   ├── 01_rapport_mise_en_oeuvre_optimisation.md   ← Livrable 1 (C19+C20+C23)
 │   ├── 02_plan_accompagnement_utilisateurs.md      ← Livrable 2 (C24)
-│   └── 04_fiche_contribution_individuelle.md       ← Livrable 4 (1 par membre)
+│   └── 04_fiche_contribution_individuelle.md       ← Livrable 4 (1 seule — travail individuel)
 ├── slides/
 │   └── slides_reporting_direction.md ← Livrable 3 (C22) — slides Marp, alimenté au fil du travail
 └── annexes/
@@ -44,7 +50,7 @@ bloc_e4/
 | 10 | Analyse feedbacks + axes d'amélioration | C23 | 🔲 À faire |
 | 11 | Plan d'accompagnement utilisateurs | C24 | 🔲 À faire |
 | 12 | Slides reporting direction (8 slides, 10 min) | C22 | 🟡 Squelette créé |
-| 13 | Fiches de contribution individuelles | Qualité | 🔲 À faire |
+| 13 | Fiche de contribution individuelle (1 seule — travail individuel) | Qualité | 🔲 À faire |
 | 14 | Export PDF + archive `E4_MobilityPulse_NomEquipe.zip` | Qualité | 🔲 À faire |
 
 ## 🎤 Générer les slides à partir du .md
