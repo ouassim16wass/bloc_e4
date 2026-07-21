@@ -30,7 +30,7 @@ Export : Marp (extension VS Code ou marp-cli), sortie PDF ou PPTX.
 
 ## Reporting de déploiement au comité de direction
 
-**[Nom Prénom], Lead Data**
+**Ouassim Megrad, Lead Data, équipe Megslab**
 
 Statut global du projet : 🟢 **VERT**
 

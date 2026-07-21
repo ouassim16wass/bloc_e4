@@ -6,9 +6,9 @@
 
 ---
 
-**Nom :** [Nom]
-**Prénom :** [Prénom]
-**Équipe :** équipe projet MobilityPulse définie par le brief : Product Owner, Lead Data, Data Engineer, MLOps, référent métier, référent support, et un référent accessibilité transverse. Travail réalisé en candidat individuel : j'ai tenu le rôle de Lead Data et défini la contribution attendue de chacun des autres rôles.
+**Nom :** Megrad
+**Prénom :** Ouassim
+**Équipe :** Megslab (candidat individuel). Équipe projet du scénario définie par le brief : Product Owner, Lead Data, Data Engineer, MLOps, référent métier, référent support, et un référent accessibilité transverse. J'ai tenu le rôle de Lead Data et défini la contribution attendue de chacun des autres rôles.
 **Rôle tenu :** Lead Data (lead technique de l'équipe Data Engineering), pilote du déploiement côté data : planification du projet, encadrement agile de l'équipe data, définition et fiabilité des KPI, qualité des données, reporting à la direction, fiabilisation des contenus d'accompagnement.
 
 ## 1. L'équipe projet et la répartition des rôles
