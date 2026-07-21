@@ -313,3 +313,79 @@ Si vous êtes en retard au chrono : raccourcissez les slides 5 et 6 (dire seulem
 5. **Assumez le « je » :** vous êtes le Lead Data, pilote du déploiement. « J'ai choisi », « je garantis », « je vous demande ».
 6. **Les transitions font le liant :** chaque fin de slide annonce la suivante (elles sont écrites dans les pitchs).
 7. **Après la slide 8 :** silence, sourire, et laissez le jury ouvrir les questions. Les 18 questions probables et leurs réponses sont dans le document SOUTENANCE_ORALE.md.
+
+---
+
+## PARTIE E : LES CAS CONCRETS À RACONTER (la différence entre lire et maîtriser)
+
+La mécanique sur chaque slide : **principe puis cas**. Vous énoncez la synthèse écrite sur la
+slide, puis vous dites « un exemple concret » et vous racontez le cas. N'importe qui peut lire
+une slide ; seul celui qui a fait le travail peut raconter Malik.
+
+### Slide 2 (planning) : le cas de la procédure d'escalade
+
+> « Pourquoi cet ordre de travail ? Un exemple : le support réclame une procédure d'escalade
+> des incidents. Impossible de l'écrire tant qu'on ne sait pas qui fait quoi : à qui on
+> escalade ? C'est pour ça que la définition des rôles se fait en semaines 1 et 2, et la
+> procédure juste après, au sprint 1. Même logique pour le reporting hebdomadaire : il faut
+> d'abord définir les indicateurs avant de les rapporter. »
+
+### Slide 3 (gouvernance) : le cas du conflit de priorités
+
+> « Imaginez la semaine 4. L'équipe technique veut livrer l'export CSV pour les analystes.
+> Le centre de supervision, lui, réclame d'abord des alertes compréhensibles. Sans gouvernance,
+> ce désaccord traîne des semaines. Chez nous : comité d'arbitrage du lundi, 30 minutes.
+> Le Product Owner tranche, les alertes d'abord, parce que la non-adoption des agents est
+> notre risque numéro un, et moi j'éclaire la décision avec la charge et les dépendances
+> techniques. Le conflit a duré une semaine, pas deux mois. »
+
+Pour la RACI : « Sur la validation de l'accessibilité, ce n'est ni moi ni le PO qui avons le
+dernier mot : c'est le référent accessibilité. Chacun son territoire. »
+
+### Slide 4 (KPI) : le cas de Malik et de l'alerte incompréhensible
+
+> « Prenons Malik, agent au centre de supervision. Aujourd'hui, en pleine heure de pointe, il
+> reçoit une alerte du genre "anomalie de flux détectée, score 3,2". Il met 5 minutes à
+> comprendre, 5 minutes pendant lesquelles il ne décide rien. Notre travail : la même alerte
+> devient "retard inhabituel sur la ligne de bus 12, secteur gare", avec une aide contextuelle.
+> Objectif : 2 minutes. Voilà ce que mesure ce KPI. »
+
+Pour les faux positifs : « 28 % des alertes sont jugées inutiles par les agents. C'est le
+syndrome de l'alarme qui sonne trop souvent : au bout d'un moment, on ne l'écoute plus.
+Si on descend à 15 %, la confiance revient, et avec elle, l'adoption. »
+
+### Slide 5 (risques) : le cas du scénario préparé à froid
+
+> « Concrètement : nous sommes en semaine 8, le tableau de bord affiche 48 % d'adoption alors
+> qu'on devrait être autour de 55. Le seuil des 50 % est franchi : je n'improvise pas, je
+> déclenche le plan préparé, ateliers ciblés sur les équipes qui n'utilisent pas l'outil,
+> accompagnement en binôme, et je passe le statut à l'orange dans mon reporting avec la
+> décision que je vous demande. La décision difficile a été préparée à froid, pas dans la
+> panique. »
+
+### Slide 6 (feedbacks) : les cas verbatim des utilisateurs
+
+> « Exemple tiré des retours : les agents disent, je cite, "les alertes sont utiles mais le
+> vocabulaire est trop technique". Retour fréquent, impact élevé : c'est devenu ma priorité
+> du sprint 2. Autre exemple : le référent accessibilité signale que certains graphiques sont
+> impossibles à lire avec un lecteur d'écran. Réponse : chaque graphique aura une description
+> textuelle, et plus aucun support ne sort sans validation accessibilité. »
+
+### Slide 7 (accompagnement) : le parcours de Malik de bout en bout
+
+> « Suivons Malik sur les 12 semaines. Semaine 6 : il reçoit l'annonce et une démo de
+> 15 minutes. Semaine 8 : il suit SON atelier de 45 minutes, pas celui des analystes, le sien,
+> construit sur de vraies alertes de son quotidien. Semaines 9 et 10 : quelqu'un vient à son
+> poste, deux fois 30 minutes, pour l'accompagner sur des situations réelles. Semaine 11, le
+> pilote démarre : Malik est autonome. Et s'il bloque, il appelle le support niveau 1 qui a
+> une procédure claire. »
+
+Pour l'inclusion, le cas Jules : « Jules, lui, utilise un lecteur d'écran. Sa session est
+dédiée : rythme adapté, supports balisés, vidéos sous-titrées. L'accessibilité n'est pas un
+rattrapage en fin de projet : elle est vérifiée avant chaque diffusion. »
+
+### Slide 8 (décisions) : le cas « et si vous validez aujourd'hui »
+
+> « Si vous validez aujourd'hui : lundi, premier comité d'arbitrage. Semaine 3, vous recevez
+> le premier reporting d'une page avec statut couleur. Fin de semaine 2, on se revoit au
+> jalon 1 pour constater que la gouvernance tourne. »
