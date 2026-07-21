@@ -9,10 +9,11 @@ Dépôt de travail pour l'examen **E4 — Bloc 4 : « Piloter un projet d'archit
 Piloter le déploiement organisationnel de **MobilityPulse** (solution d'analyse de mobilité urbaine de la métropole fictive NovaVille) sur **12 semaines** : organisation, gouvernance agile, reporting, KPI et accompagnement des utilisateurs. **Aucun code — c'est un examen de pilotage de projet.**
 
 > ⚠️ **Travail passé en INDIVIDUEL** : le sujet est conçu pour un groupe, mais le candidat est seul.
-> Conséquences : une seule fiche de contribution individuelle, et à l'oral le candidat doit savoir
-> parler de **tous les rôles** de l'équipe projet fictive (PO, Lead Data, Data Engineer, MLOps,
-> Référent métier, Support, Référent accessibilité). La RACI reste inchangée : ces 7 rôles sont
-> ceux du scénario fictif imposé par le brief, pas ceux des candidats.
+> Consigne : s'attribuer un rôle parmi ceux de l'équipe définie → **rôle choisi : Product Owner (PO)**,
+> le seul qui couvre les 5 compétences évaluées (prioriser, arbitrer, reporter, mesurer, accompagner).
+> À l'oral, le candidat parle en « je » comme PO et doit savoir expliquer **tous les rôles** de
+> l'équipe fictive qu'il coordonne (Lead Data, Data Engineer, MLOps, Référent métier, Support,
+> Référent accessibilité). La RACI reste inchangée : ces rôles sont ceux du scénario imposé par le brief.
 
 ## 📁 Structure du dépôt
 

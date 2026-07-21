@@ -1,17 +1,18 @@
 # Fiche de contribution individuelle — E4 MobilityPulse_V1
 
 > **Livrable 4** — travail passé en INDIVIDUEL : une seule fiche (export PDF
-> `fiche_contribution_individuelle_NOM.pdf`). Le candidat étant seul, la fiche explique comment
-> il a couvert l'ensemble des dimensions du pilotage (C19 à C24) et arbitré entre les
-> perspectives des différents rôles du projet fictif (PO, Lead Data, MLOps, métier, support,
-> accessibilité). Le « rôle tenu » = chef de projet / directeur de programme portant tous les rôles.
+> `fiche_contribution_individuelle_NOM.pdf`). Consigne : s'attribuer un rôle parmi ceux de
+> l'équipe définie par le brief. **Rôle choisi : Product Owner (PO)** — le seul rôle couvrant
+> les 5 compétences évaluées (prioriser C19, arbitrer C20, reporter C22, mesurer C23,
+> porter la voix des utilisateurs C24). Le candidat coordonne les autres rôles de l'équipe
+> fictive (Lead Data, Data Engineer, MLOps, référent métier, support, référent accessibilité).
 
 ---
 
 **Nom :**
 **Prénom :**
 **Équipe :**
-**Rôle tenu :** <!-- ex. PO / facilitateur / responsable KPI / responsable accompagnement... -->
+**Rôle tenu :** Product Owner (PO) — priorisation du backlog, arbitrages IT/métier, définition des KPI avec le Lead Data, reporting à la direction, représentation des besoins utilisateurs.
 
 ## 1. Contributions réalisées
 

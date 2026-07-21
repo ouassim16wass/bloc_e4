@@ -119,19 +119,24 @@ dans les parties prenantes et dans la matrice RACI officielle (rôle transverse,
 
 ---
 
-## 🎤 Spécial travail individuel : comment en parler à l'oral
+## 🎤 Spécial travail individuel : le candidat est le Product Owner
 
-Étant seul, vous ne « jouez » pas un rôle parmi d'autres : vous êtes **le chef de projet /
-directeur de programme** qui orchestre ces 7 rôles. Trois réflexes :
+Consigne de l'épreuve : s'attribuer un rôle parmi ceux de l'équipe définie. **Rôle choisi :
+Product Owner** — le seul rôle qui couvre les 5 compétences évaluées (prioriser C19, arbitrer
+C20, reporter C22, mesurer C23, porter la voix des utilisateurs C24). Légitimité donnée par le
+sujet lui-même : la story **B09** dit « En tant que PO, je veux un backlog priorisé avec
+arbitrages ». Trois réflexes pour l'oral :
 
-1. **Parlez d'orchestration, pas d'exécution :** *« J'ai défini ce que chaque rôle fait, quand,
-   et comment ils se coordonnent »* — c'est exactement les compétences C19/C20.
+1. **Parlez en PO, pas en exécutant :** *« En tant que PO, j'ai priorisé..., j'ai arbitré...,
+   j'ai reporté à la direction... »* — et l'exécution technique reste chez le Lead Data, le Data
+   Engineer et le MLOps, que vous coordonnez.
 2. **Utilisez la RACI comme support :** chaque ligne de la matrice est une occasion de montrer que
-   vous connaissez les rôles (« sur la définition des KPI, le Lead Data est Accountable parce que... »).
+   vous connaissez les rôles (« sur la définition des KPI, je suis Accountable et le Lead Data
+   est Responsible parce que c'est lui qui garantit les formules... »).
 3. **Anticipez la question piège :** *« Vous êtes seul, comment pouvez-vous parler de gestion
-   d'équipe ? »* → Réponse : *« Le sujet fournit une équipe fictive de 6 rôles ; mon travail de
-   pilotage consiste précisément à organiser leur collaboration : c'est ce que ferait un chef de
-   projet réel qui, lui non plus, ne fait pas tout lui-même. »*
+   d'équipe ? »* → Réponse : *« Le sujet fournit une équipe fictive de 6 rôles ; en tant que PO,
+   mon travail consiste précisément à organiser leur collaboration — un PO réel ne fait pas tout
+   lui-même, il priorise et coordonne. »*
 
 ## 🔗 Traçabilité rôles ↔ dossier documentaire (à citer en Q/R)
 
