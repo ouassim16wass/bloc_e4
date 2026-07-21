@@ -32,6 +32,7 @@ bloc_e4/
 | # | Tâche | Compétence | Statut |
 |---|---|---|---|
 | 1 | Analyse du sujet et du dossier documentaire | — | ✅ Fait |
+| 1b | Synthèse exécutive (Livrable 1 §1) | C19/C22 | ✅ Fait |
 | 2 | Objectifs SMART | C19 | 🔲 À faire |
 | 3 | Plan projet 12 semaines (phases, jalons, dépendances) | C19 | 🔲 À faire |
 | 4 | Parties prenantes et inclusion | C19 | 🔲 À faire |

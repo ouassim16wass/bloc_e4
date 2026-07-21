@@ -8,11 +8,20 @@
 
 ## 1. Synthèse exécutive
 
-**Contexte :** <!-- TODO : 3-4 phrases — NovaVille, prototype MobilityPulse, les 3 limites constatées par la direction -->
+**Contexte :**
 
-**Enjeux :** <!-- TODO : passage à l'échelle organisationnel, adoption, gouvernance -->
+La métropole de NovaVille exploite un réseau de transport multimodal : bus, tramways, parkings relais, pistes cyclables et vélos en libre-service. Un prototype avancé de la solution MobilityPulse permet déjà de collecter les signaux de mobilité, de détecter les anomalies et d'exposer des indicateurs via une interface interne. Ce prototype a été jugé prometteur, mais la direction constate trois limites : l'organisation du passage à l'échelle n'est pas définie, les rôles entre les équipes data, IT, métier et exploitation ne sont pas formalisés, et les utilisateurs finaux demandent davantage de formation, de lisibilité et de support. Le Comité de Direction demande un dossier de pilotage permettant de sécuriser le déploiement pilote de MobilityPulse sur 12 semaines.
 
-**Décisions attendues :** <!-- TODO : reprendre les 4 décisions du brief direction -->
+**Enjeux :**
+
+- **Adoption** : seuls 35 % des utilisateurs cibles utilisent aujourd'hui l'outil ; sans accompagnement adapté, le risque est la non-adoption et le contournement de la solution (R01).
+- **Gouvernance** : sans rôles formalisés, le projet s'expose à des conflits de priorités entre IT et métier et à une surcharge des équipes (R02).
+- **Pilotage** : la direction a besoin d'indicateurs fiables et d'un reporting orienté décision pour arbitrer rapidement (R03, R06).
+- **Inclusion et responsabilité** : le déploiement doit être accessible à tous, y compris aux utilisateurs en situation de handicap (R04), et son impact environnemental doit être suivi (exigence du brief).
+
+**Décisions attendues :**
+
+À l'issue de ce rapport, la direction est invitée à : **1)** valider le mode de gouvernance proposé, **2)** valider le calendrier de déploiement sur 12 semaines, **3)** arbitrer les priorités du backlog, **4)** valider le dispositif d'accompagnement des utilisateurs.
 
 ---
 
