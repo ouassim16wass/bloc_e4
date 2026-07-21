@@ -1,7 +1,7 @@
 ID,Risque,Probabilite,Impact,Niveau,Mitigation,Owner,Statut
-R01,Non-adoption par les agents,Moyenne,Eleve,Eleve,"Co-construction, formations courtes par profil, support terrain, canal feedback (B10) ; contingence : ateliers cibles si adoption <50% a S8",Referent metier,Ouvert
+R01,Non-adoption par les agents,Moyenne,Eleve,Eleve,"Co-construction, formations courtes par profil, support terrain, canal feedback (B10) ; contingence : ateliers cibles si l adoption est sous les 50% en semaine 8",Referent metier,Ouvert
 R02,Conflit de priorites entre IT et metier,Moyenne,Eleve,Eleve,"Comite d'arbitrage hebdomadaire, backlog priorise avec justifications (B09) ; contingence : escalade direction (decision n3)",Product Owner,Ouvert
 R03,Reporting trop technique,Elevee,Moyen,Eleve,"Charte de reporting appliquee, glossaire KPI, statut vert/orange/rouge (F02) ; contingence : relecture par un non-technicien",Lead Data,Ouvert
-R04,Accessibilite insuffisante,Moyenne,Eleve,Eleve,"Validation type RGAA de chaque support, referent accessibilite implique des la conception (B04) ; contingence : plan de remediation + formats alternatifs",Referent accessibilite,Ouvert
-R05,Surcharge du support au demarrage,Moyenne,Moyen,Moyen,"FAQ, niveau 1, procedure d'escalade (B03), formation du support avant le pilote ; contingence : renfort equipe data + gel des evolutions non critiques",Referent support,Ouvert
+R04,Accessibilite insuffisante,Moyenne,Eleve,Eleve,"Validation type RGAA de chaque support, referent accessibilite implique des la conception (B04) ; contingence : plan de remediation et formats alternatifs",Referent accessibilite,Ouvert
+R05,Surcharge du support au demarrage,Moyenne,Moyen,Moyen,"FAQ, niveau 1, procedure d'escalade (B03), formation du support avant le pilote ; contingence : renfort equipe data et gel des evolutions non critiques",Referent support,Ouvert
 R06,KPI non exploitables,Faible,Eleve,Moyen,"Owner et formule documentes par KPI, glossaire partage (F03) ; contingence : audit des indicateurs et revalidation",Lead Data,Ouvert
