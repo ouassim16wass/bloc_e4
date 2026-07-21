@@ -1,12 +1,12 @@
-# Fiche de contribution individuelle — E4 MobilityPulse_V1
+# Fiche de contribution individuelle - E4 MobilityPulse_V1
 
-> **Livrable 4** — travail passé en INDIVIDUEL : une seule fiche (export PDF
+> **Livrable 4** : travail passé en INDIVIDUEL, une seule fiche (export PDF
 > `fiche_contribution_individuelle_NOM.pdf`). Consigne : s'attribuer un rôle parmi ceux de
-> l'équipe définie par le brief. **Rôle choisi : Lead Data** — responsable de l'équipe Data
+> l'équipe définie par le brief. **Rôle choisi : Lead Data**, responsable de l'équipe Data
 > Engineering à qui la direction confie le déploiement : il planifie le projet (C19), encadre
 > le développement et les rituels agiles (C20), rend compte à la direction (C22), garantit la
-> fiabilité des KPI et de la donnée (C23) et fiabilise les contenus d'accompagnement — glossaire,
-> documentation (C24) — en coordination avec le PO (priorisation), le référent métier, le
+> fiabilité des KPI et de la donnée (C23) et fiabilise les contenus d'accompagnement (glossaire,
+> documentation, C24), en coordination avec le PO (priorisation), le référent métier, le
 > support et le référent accessibilité.
 
 ---
@@ -14,7 +14,7 @@
 **Nom :**
 **Prénom :**
 **Équipe :**
-**Rôle tenu :** Lead Data — pilote du déploiement côté data : planification du projet, encadrement agile de l'équipe data (Data Engineer, MLOps), définition et fiabilité des KPI, qualité des données, reporting à la direction, fiabilisation des contenus d'accompagnement (glossaire KPI, documentation des alertes).
+**Rôle tenu :** Lead Data, pilote du déploiement côté data : planification du projet, encadrement agile de l'équipe data (Data Engineer, MLOps), définition et fiabilité des KPI, qualité des données, reporting à la direction, fiabilisation des contenus d'accompagnement (glossaire KPI, documentation des alertes).
 
 ## 1. Contributions réalisées
 
