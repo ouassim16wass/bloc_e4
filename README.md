@@ -9,11 +9,14 @@ Dépôt de travail pour l'examen **E4 — Bloc 4 : « Piloter un projet d'archit
 Piloter le déploiement organisationnel de **MobilityPulse** (solution d'analyse de mobilité urbaine de la métropole fictive NovaVille) sur **12 semaines** : organisation, gouvernance agile, reporting, KPI et accompagnement des utilisateurs. **Aucun code — c'est un examen de pilotage de projet.**
 
 > ⚠️ **Travail passé en INDIVIDUEL** : le sujet est conçu pour un groupe, mais le candidat est seul.
-> Consigne : s'attribuer un rôle parmi ceux de l'équipe définie → **rôle choisi : Product Owner (PO)**,
-> le seul qui couvre les 5 compétences évaluées (prioriser, arbitrer, reporter, mesurer, accompagner).
-> À l'oral, le candidat parle en « je » comme PO et doit savoir expliquer **tous les rôles** de
-> l'équipe fictive qu'il coordonne (Lead Data, Data Engineer, MLOps, Référent métier, Support,
-> Référent accessibilité). La RACI reste inchangée : ces rôles sont ceux du scénario imposé par le brief.
+> Consigne : s'attribuer un rôle parmi ceux de l'équipe définie → **rôle choisi : Lead Data**,
+> en cohérence avec le titre Data Engineer visé. Cadrage : le brief confie le pilotage à
+> « l'équipe Data Engineering », dont le Lead Data est le responsable → posture de **pilote du
+> déploiement côté data** : il planifie (C19), encadre le développement en agile (C20), rend
+> compte à la direction (C22), garantit la fiabilité des KPI (C23) et fiabilise les contenus
+> d'accompagnement (C24). La priorisation finale du backlog reste au PO fictif (le Lead Data
+> éclaire ses arbitrages). À l'oral : parler en « je » comme Lead Data, savoir expliquer tous
+> les rôles de l'équipe fictive. La RACI reste inchangée : ces rôles sont ceux du scénario du brief.
 
 ## 📁 Structure du dépôt
 

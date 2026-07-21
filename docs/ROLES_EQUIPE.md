@@ -119,24 +119,42 @@ dans les parties prenantes et dans la matrice RACI officielle (rôle transverse,
 
 ---
 
-## 🎤 Spécial travail individuel : le candidat est le Product Owner
+## 🎤 Spécial travail individuel : le candidat est le Lead Data
 
 Consigne de l'épreuve : s'attribuer un rôle parmi ceux de l'équipe définie. **Rôle choisi :
-Product Owner** — le seul rôle qui couvre les 5 compétences évaluées (prioriser C19, arbitrer
-C20, reporter C22, mesurer C23, porter la voix des utilisateurs C24). Légitimité donnée par le
-sujet lui-même : la story **B09** dit « En tant que PO, je veux un backlog priorisé avec
-arbitrages ». Trois réflexes pour l'oral :
+Lead Data**, en cohérence avec le titre Data Engineer visé. Cadrage qui rend ce choix solide :
+le sujet dit *« Vous intervenez comme équipe Data Engineering chargée de piloter le
+déploiement »* — et le responsable d'une équipe Data Engineering, c'est le Lead Data. Posture :
+**pilote du déploiement côté data**. Légitimité donnée par le sujet lui-même : la story **B10**
+dit « En tant que lead data, je veux un canal de feedback structuré » ; le feedback **F03**
+(définitions des KPI) et le risque **R06** (owner et formule de chaque KPI) relèvent
+directement de sa responsabilité.
 
-1. **Parlez en PO, pas en exécutant :** *« En tant que PO, j'ai priorisé..., j'ai arbitré...,
-   j'ai reporté à la direction... »* — et l'exécution technique reste chez le Lead Data, le Data
-   Engineer et le MLOps, que vous coordonnez.
-2. **Utilisez la RACI comme support :** chaque ligne de la matrice est une occasion de montrer que
-   vous connaissez les rôles (« sur la définition des KPI, je suis Accountable et le Lead Data
-   est Responsible parce que c'est lui qui garantit les formules... »).
+Couverture des 5 compétences :
+- **C19** : il construit le plan projet car il connaît les dépendances techniques (« Qualité
+  data » pour B06, « Permissions » pour B05) et peut estimer les durées.
+- **C20** : « Encadrer le développement avec des méthodes agiles » est littéralement le métier
+  d'un lead — il encadre le Data Engineer et le MLOps, anime daily et rétrospectives.
+- **C22** : il rend compte à la direction, en traduisant le technique en langage décisionnel
+  (glossaire contre le risque R03).
+- **C23** : son cœur de légitimité — garant des formules, owners et fiabilité des KPI (R06, F03).
+- **C24** : il fiabilise les contenus d'accompagnement (glossaire KPI, documentation des alertes
+  B01, canal de feedback B10), en coordination avec le référent métier et le support.
+
+Trois réflexes pour l'oral :
+
+1. **Parlez pilotage, jamais technique :** *« En tant que Lead Data, j'ai planifié..., encadré...,
+   garanti la fiabilité des indicateurs..., rendu compte à la direction... »* La question piège
+   sera *« parlez-moi de votre architecture »* → réponse : *« La solution existe en prototype ;
+   mon rôle dans ce déploiement est le pilotage : planifier, encadrer, mesurer — pas développer. »*
+2. **Respectez le territoire du PO :** la priorisation finale du backlog reste au PO fictif
+   (A sur cette ligne de la RACI) ; vous êtes Consulté : *« j'éclaire les arbitrages du PO avec
+   les complexités et dépendances techniques »*. En échange, vous êtes **A** sur la définition
+   des KPI et la qualité data.
 3. **Anticipez la question piège :** *« Vous êtes seul, comment pouvez-vous parler de gestion
-   d'équipe ? »* → Réponse : *« Le sujet fournit une équipe fictive de 6 rôles ; en tant que PO,
-   mon travail consiste précisément à organiser leur collaboration — un PO réel ne fait pas tout
-   lui-même, il priorise et coordonne. »*
+   d'équipe ? »* → Réponse : *« Le sujet fournit une équipe fictive ; en tant que Lead Data,
+   mon travail consiste précisément à encadrer et coordonner cette équipe — un lead réel ne
+   fait pas tout lui-même, il organise le travail des autres. »*
 
 ## 🔗 Traçabilité rôles ↔ dossier documentaire (à citer en Q/R)
 
