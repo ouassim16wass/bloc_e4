@@ -18,20 +18,15 @@
 
 ## 2. Objectifs SMART
 
+Chaque objectif répond à un enjeu identifié dans la synthèse exécutive ; toutes les cibles chiffrées proviennent du dossier documentaire (`kpi_initial.csv`, brief direction).
+
 | # | Objectif | Spécifique | Mesurable | Acceptable | Réaliste | Temporel |
 |---|---|---|---|---|---|---|
-| O1 | <!-- TODO --> | | | | | |
-| O2 | | | | | | |
-| O3 | | | | | | |
-| O4 | | | | | | |
-
-<!-- Pistes (à valider ensemble) :
-O1 adoption : 35% → 75% d'utilisateurs actifs en 12 semaines
-O2 compréhension alerte : 5 min → 2 min avant fin du pilote
-O3 gouvernance : RACI + comité d'arbitrage opérationnels en S2
-O4 accompagnement : 100% des profils formés avant S10, satisfaction ≥ 4/5
-O5 RSE : KPI empreinte numérique défini et suivi mensuellement dès S4
--->
+| O1 | Porter le taux d'adoption hebdomadaire de MobilityPulse de 35 % à 75 % d'utilisateurs actifs | Adoption de l'outil par les utilisateurs cibles : agents de supervision, analystes, managers | Utilisateurs actifs / utilisateurs cibles : 35 % → 75 % (kpi_initial.csv) | Validé par la direction et le centre de supervision ; répond au risque R01 (non-adoption) | Atteignable via formations courtes, co-construction et support terrain | Fin de semaine 12 (fin du déploiement pilote) |
+| O2 | Réduire le délai moyen de compréhension d'une alerte critique de 5 à 2 minutes | Lisibilité des alertes pour les agents du centre de supervision | Délai moyen de compréhension : 5 min → 2 min (kpi_initial.csv) | Demande directe des agents (persona Malik, feedback F01) | Via libellés métier, aide contextuelle et tutoriel court (story B01) | Fin de semaine 12 |
+| O3 | Rendre la gouvernance projet opérationnelle : matrice RACI validée, comité d'arbitrage hebdomadaire, rituels agiles en place | Formalisation des rôles entre data, IT, métier et exploitation (limite n°2 du brief) | 3 éléments livrés et validés : RACI, comité d'arbitrage, rituels | Répond au risque R02 (conflits de priorités) ; soumis à la validation de la direction (décision n°1) | Ne nécessite que de l'organisation, aucun développement | Fin de semaine 2 (prérequis du reste du projet) |
+| O4 | Former 100 % des utilisateurs cibles des 4 profils avec une satisfaction ≥ 4/5 et des supports accessibles | Montée en compétence des 4 profils : superviseur, agent, analyste, utilisateur avec besoin d'accessibilité | 100 % formés ; satisfaction ≥ 4/5 (kpi_initial.csv) ; supports validés accessibilité (type RGAA) | Répond à la limite n°3 du brief et au risque R04 ; validé par le référent accessibilité | Formats courts (ateliers 45 min — story B07) compatibles avec le peu de temps de formation des agents | Fin de semaine 10, avant le démarrage du pilote |
+| O5 | Définir puis suivre mensuellement un indicateur d'empreinte numérique du service | Mesure de l'impact environnemental de la solution (exigence du brief) | 1 indicateur défini (formule + owner) puis 1 relevé mensuel | Demande de la direction RSE (feedback F06) | Estimation relative ressources/run, sans outillage lourd (story B08) | Défini en semaine 4, suivi mensuel ensuite |
 
 ---
 
