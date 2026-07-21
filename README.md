@@ -44,14 +44,14 @@ bloc_e4/
 | 1 | Analyse du sujet et du dossier documentaire | — | ✅ Fait |
 | 1b | Synthèse exécutive (Livrable 1 §1) | C19/C22 | ✅ Fait |
 | 2 | Objectifs SMART | C19 | ✅ Fait |
-| 3 | Plan projet 12 semaines (phases, jalons, dépendances) | C19 | 🔲 À faire |
-| 4 | Parties prenantes et inclusion | C19 | 🔲 À faire |
-| 5 | Registre des risques + mitigations | C19/C20 | 🔲 À faire |
-| 6 | Méthode agile justifiée + rituels | C20 | 🔲 À faire |
-| 7 | Matrice RACI | C20 | 🔲 À faire |
-| 8 | Backlog priorisé + justifications | C19/C23 | 🔲 À faire |
-| 9 | Tableau KPI (projet, produit, adoption, RSE) | C23 | 🔲 À faire |
-| 10 | Analyse feedbacks + axes d'amélioration | C23 | 🔲 À faire |
+| 3 | Plan projet 12 semaines (phases, jalons, dépendances) | C19 | ✅ Fait |
+| 4 | Parties prenantes et inclusion | C19 | ✅ Fait |
+| 5 | Registre des risques + mitigations | C19/C20 | ✅ Fait |
+| 6 | Méthode agile justifiée + rituels | C20 | ✅ Fait |
+| 7 | Matrice RACI | C20 | ✅ Fait |
+| 8 | Backlog priorisé + justifications | C19/C23 | ✅ Fait |
+| 9 | Tableau KPI (projet, produit, adoption, RSE) | C23 | ✅ Fait |
+| 10 | Analyse feedbacks + axes d'amélioration | C23 | ✅ Fait |
 | 11 | Plan d'accompagnement utilisateurs | C24 | 🔲 À faire |
 | 12 | Slides reporting direction (8 slides, 10 min) | C22 | 🟡 Squelette créé |
 | 13 | Fiche de contribution individuelle (1 seule — travail individuel) | Qualité | 🔲 À faire |

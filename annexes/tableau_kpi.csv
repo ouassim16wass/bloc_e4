@@ -1,2 +1,8 @@
 KPI,Categorie,Definition,Valeur initiale,Cible,Frequence,Owner,Action si derive
-,,,,,,,
+Taux d'adoption hebdomadaire,Adoption,Utilisateurs actifs / utilisateurs cibles,35%,75% (S12),Hebdomadaire,Referent metier,"Si <50% a S8 : ateliers cibles, analyse des freins via canal feedback"
+Delai de comprehension d'une alerte,Adoption,Temps moyen pour comprendre une alerte critique (test panel agents),5 min,2 min,Mensuelle,Referent metier + Lead Data,"Renforcement des libelles metier et de l'aide contextuelle (B01)"
+Taux de faux positifs percu,Produit,Part des alertes jugees non pertinentes par les agents,28%,15%,Hebdomadaire,MLOps,"Revue des seuils du modele, boucle de qualification des alertes"
+Respect des jalons,Projet,Jalons tenus / jalons planifies,N/A,>=85%,A chaque jalon,Lead Data,"Replanification, arbitrage de perimetre au comite hebdomadaire"
+Tickets support bloquants,Support,Nombre de tickets bloquants ouverts par semaine,N/A,<=3/semaine,Hebdomadaire,Referent support,"Renfort niveau 2, analyse cause racine, mise a jour FAQ"
+Satisfaction formation,Accompagnement,Score moyen recueilli apres chaque atelier,N/A,>=4/5,Apres chaque atelier,Referent metier,"Refonte du format, sessions complementaires courtes"
+Empreinte numerique du projet,RSE,Estimation relative des ressources consommees par run (formule definie en S4),N/A,Suivi mensuel tendance stable ou en baisse,Mensuelle,MLOps (formule validee Lead Data),"Plan de sobriete : optimisation des traitements, purge des donnees"
